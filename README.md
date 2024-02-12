@@ -1,2 +1,4 @@
 # demo-repo
-<h1> readme content</h1>
+readme content
+# subdirectory 
+content for learning
